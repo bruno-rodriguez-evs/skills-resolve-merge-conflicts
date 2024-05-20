@@ -1,4 +1,1 @@
-# References
-
-* octocat 1 😈
-* :o
+Some text
